@@ -1,0 +1,67 @@
+year,month,country_name,total_new_confirmed
+2020,1,Canada,1
+2020,1,United States of America,4
+2020,2,United States of America,15
+2020,2,Canada,3
+2020,3,Canada,732
+2020,3,United States of America,21188
+2020,4,United States of America,31456
+2020,4,Canada,997
+2020,5,United States of America,33237
+2020,5,Canada,2203
+2020,6,United States of America,46854
+2020,6,Canada,469
+2020,7,United States of America,76692
+2020,7,Canada,368
+2020,8,Canada,426
+2020,8,United States of America,61885
+2020,9,Canada,896
+2020,9,United States of America,50962
+2020,10,Canada,1472
+2020,10,United States of America,97033
+2020,11,United States of America,192850
+2020,11,Canada,2877
+2020,12,Canada,6793
+2020,12,United States of America,243390
+2021,1,Canada,7663
+2021,1,United States of America,286196
+2021,2,Canada,1946
+2021,2,United States of America,125369
+2021,3,United States of America,70589
+2021,3,Canada,2548
+2021,4,Canada,4789
+2021,4,United States of America,75602
+2021,5,United States of America,47264
+2021,5,Canada,3610
+2021,6,United States of America,19215
+2021,6,Canada,940
+2021,7,Canada,387
+2021,7,United States of America,103739
+2021,8,Canada,3056
+2021,8,United States of America,185096
+2021,9,United States of America,197101
+2021,9,Canada,5181
+2021,10,Canada,4037
+2021,10,United States of America,119761
+2021,11,United States of America,143827
+2021,11,Canada,2204
+2021,12,Canada,30584
+2021,12,United States of America,557592
+2022,1,United States of America,1235521
+2022,1,Canada,31198
+2022,2,United States of America,349511
+2022,2,Canada,5500
+2022,3,United States of America,55164
+2022,3,Canada,5348
+2022,4,United States of America,86220
+2022,4,Canada,7885
+2022,5,United States of America,157304
+2022,5,Canada,8215
+2022,6,Canada,17696
+2022,6,United States of America,184839
+2022,7,United States of America,187924
+2022,7,Canada,32896
+2022,8,United States of America,157192
+2022,8,Canada,28586
+2022,9,Canada,20842
+2022,9,United States of America,117514

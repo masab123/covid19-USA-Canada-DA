@@ -1,0 +1,67 @@
+year,month,country_name,total_confirmed
+2020,1,United States of America,9
+2020,1,Canada,3
+2020,2,United States of America,82
+2020,2,Canada,11
+2020,3,Canada,4162
+2020,3,United States of America,158732
+2020,4,Canada,27537
+2020,4,United States of America,916239
+2020,5,Canada,51059
+2020,5,United States of America,1626491
+2020,6,United States of America,2476880
+2020,6,Canada,55458
+2020,7,Canada,59312
+2020,7,United States of America,4406097
+2020,8,United States of America,5874328
+2020,8,Canada,62492
+2020,9,Canada,74288
+2020,9,United States of America,7084590
+2020,10,United States of America,8998888
+2020,10,Canada,106016
+2020,11,United States of America,13444501
+2020,11,Canada,142371
+2020,12,United States of America,19694998
+2020,12,Canada,202641
+2021,1,United States of America,25605016
+2021,1,Canada,272294
+2021,2,Canada,305228
+2021,2,United States of America,27833375
+2021,3,United States of America,29508492
+2021,3,Canada,355711
+2021,4,United States of America,31266636
+2021,4,Canada,471294
+2021,5,United States of America,32145209
+2021,5,Canada,537889
+2021,6,Canada,551200
+2021,6,United States of America,32532211
+2021,7,Canada,556597
+2021,7,United States of America,34050793
+2021,8,United States of America,38266551
+2021,8,Canada,572211
+2021,9,Canada,592765
+2021,9,United States of America,42340798
+2021,10,United States of America,44791056
+2021,10,Canada,606369
+2021,11,Canada,625453
+2021,11,United States of America,47356230
+2021,12,United States of America,53349300
+2021,12,Canada,772706
+2022,1,United States of America,72993107
+2022,1,Canada,1045266
+2022,2,Canada,1113432
+2022,2,United States of America,76721814
+2022,3,Canada,1176998
+2022,3,United States of America,77720577
+2022,4,Canada,1271818
+2022,4,United States of America,78902217
+2022,5,United States of America,81715030
+2022,5,Canada,3874747
+2022,6,United States of America,84840692
+2022,6,Canada,3941771
+2022,7,Canada,4056091
+2022,7,United States of America,88530240
+2022,8,United States of America,91551803
+2022,8,Canada,4158494
+2022,9,Canada,4197701
+2022,9,United States of America,92440495

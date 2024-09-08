@@ -1,0 +1,67 @@
+year,month,country_name,total_deceased
+2020,1,Canada,0
+2020,1,United States of America,0
+2020,2,United States of America,5
+2020,2,Canada,0
+2020,3,United States of America,3207
+2020,3,Canada,67
+2020,4,United States of America,46759
+2020,4,Canada,3104
+2020,5,United States of America,84925
+2020,5,Canada,7749
+2020,6,Canada,8646
+2020,6,United States of America,106575
+2020,7,Canada,8899
+2020,7,United States of America,136747
+2020,8,Canada,9102
+2020,8,United States of America,167154
+2020,9,Canada,9256
+2020,9,United States of America,188859
+2020,10,Canada,10204
+2020,10,United States of America,212679
+2020,11,United States of America,254791
+2020,11,Canada,12041
+2020,12,Canada,15146
+2020,12,United States of America,336170
+2021,1,United States of America,432041
+2021,1,Canada,20010
+2021,2,Canada,21895
+2021,2,United States of America,495520
+2021,3,Canada,22731
+2021,3,United States of America,525938
+2021,4,United States of America,545458
+2021,4,Canada,23787
+2021,5,United States of America,561376
+2021,5,Canada,25298
+2021,6,Canada,26010
+2021,6,United States of America,570739
+2021,7,United States of America,580100
+2021,7,Canada,26359
+2021,8,United States of America,613747
+2021,8,Canada,26630
+2021,9,Canada,27374
+2021,9,United States of America,669555
+2021,10,United States of America,714505
+2021,10,Canada,28691
+2021,11,Canada,29352
+2021,11,United States of America,748119
+2021,12,United States of America,790032
+2021,12,Canada,29887
+2022,1,Canada,33440
+2022,1,United States of America,853576
+2022,2,Canada,36237
+2022,2,United States of America,915180
+2022,3,United States of America,941814
+2022,3,Canada,37636
+2022,4,Canada,39622
+2022,4,United States of America,953708
+2022,5,Canada,41235
+2022,5,United States of America,963477
+2022,6,United States of America,973843
+2022,6,Canada,41963
+2022,7,United States of America,985976
+2022,7,Canada,43000
+2022,8,United States of America,1000382
+2022,8,Canada,44110
+2022,9,United States of America,1005195
+2022,9,Canada,44347

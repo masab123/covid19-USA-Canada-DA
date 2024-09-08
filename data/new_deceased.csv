@@ -1,0 +1,67 @@
+year,month,country_name,new_deceased
+2020,1,United States of America,0
+2020,1,Canada,0
+2020,2,Canada,0
+2020,2,United States of America,2
+2020,3,United States of America,635
+2020,3,Canada,51
+2020,4,Canada,1164
+2020,4,United States of America,2164
+2020,5,Canada,1303
+2020,5,United States of America,2232
+2020,6,Canada,380
+2020,6,United States of America,978
+2020,7,Canada,85
+2020,7,United States of America,1409
+2020,8,Canada,49
+2020,8,United States of America,1335
+2020,9,Canada,56
+2020,9,United States of America,1101
+2020,10,Canada,253
+2020,10,United States of America,1099
+2020,11,Canada,581
+2020,11,United States of America,2290
+2020,12,Canada,874
+2020,12,United States of America,3721
+2021,1,Canada,1047
+2021,1,United States of America,4021
+2021,2,United States of America,3291
+2021,2,Canada,719
+2021,3,United States of America,1872
+2021,3,Canada,241
+2021,4,Canada,325
+2021,4,United States of America,1716
+2021,5,Canada,335
+2021,5,United States of America,787
+2021,6,United States of America,577
+2021,6,Canada,230
+2021,7,Canada,122
+2021,7,United States of America,515
+2021,8,Canada,101
+2021,8,United States of America,1804
+2021,9,United States of America,2423
+2021,9,Canada,246
+2021,10,United States of America,2208
+2021,10,Canada,295
+2021,11,United States of America,2084
+2021,11,Canada,190
+2021,12,Canada,154
+2021,12,United States of America,2227
+2022,1,United States of America,3800
+2022,1,Canada,1051
+2022,2,United States of America,4133
+2022,2,Canada,956
+2022,3,United States of America,1967
+2022,3,Canada,417
+2022,4,Canada,486
+2022,4,United States of America,940
+2022,5,United States of America,1172
+2022,5,Canada,484
+2022,6,Canada,343
+2022,6,United States of America,650
+2022,7,Canada,271
+2022,7,United States of America,706
+2022,8,United States of America,801
+2022,8,Canada,305
+2022,9,Canada,262
+2022,9,United States of America,705
